@@ -1,0 +1,54 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+div {
+  height: 100vh;
+  text-align:center;
+  padding-right:1rem;
+}
+h1 {
+  margin: 0;
+
+  text-align: center;
+  padding-top: 10vh;
+  font-size: 5rem;
+  text-shadow: -1px -2px #000;
+  letter-spacing: 3px;
+}
+span {
+  margin: 0;
+  padding: 0 15px;
+  font-size: 3.5rem;
+  color:initial;
+  text-shadow:initial;
+}
+.dot {
+  font-size: 1rem;
+}
+
+#click {
+  margin-top:15vh;
+  height: 8rem;
+  width: 8rem;
+  border-radius: 50%;
+  border: 2px solid #000;
+  text-shadow: -1px -1px #000;
+  
+  
+}
+#cButton{
+  margin: initial;
+  padding: initial;
+  font-size: 2.5rem;
+  color:initial;
+  text-shadow:initial;
+}
+#script{
+  margin-top:20vh;
+  font-size: 2.5rem;
+  margin-bottom:0;
+  text-shadow: 1px 1px 5px #000;
+
+}
